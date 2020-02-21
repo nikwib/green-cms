@@ -14,7 +14,7 @@ mainpitch:
 description: Vi erbjuder effektiv plattform för datadriven hållbarhet.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/icons8-checked-64.png
       text: 'Automatiserad datainsamling, rapportering och visualisering'
     - image: /img/coffee-gear.png
       text: |
