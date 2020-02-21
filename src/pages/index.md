@@ -14,14 +14,14 @@ mainpitch:
 description: Vi erbjuder effektiv plattform för datadriven hållbarhet.
 intro:
   blurbs:
-    - image: /img/icons8-checked-64.png
+    - image: /img/coffee-gear.png
       text: 'Automatiserad datainsamling, rapportering och visualisering'
-    - image: /img/icons8-checked.svg
+    - image: /img/coffee.png
       text: |
         Flexibelt och anpassningsbart efter varje kunds unika behov
-    - image: /img/icons8-checked.svg
+    - image: /img/meeting-space.png
       text: Spara tid - upp till 84% tidsbesparing
-    - image: /img/icons8-checked.svg
+    - image: /img/tutorials.png
       text: |
         Överblick - alla hållbarhetsområden samlade på ett ställe
   heading: What we offer
