@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Förenkla hållbarhetsarbetet
-image: /img/Thebreak.jpg
+image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Verksamhetsstöd för tillståndshantering
 mainpitch:
