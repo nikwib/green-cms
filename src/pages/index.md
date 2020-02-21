@@ -2,20 +2,16 @@
 templateKey: index-page
 title: Förenkla hållbarhetsarbetet
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Medveten hållbarhet
 subheading: Verksamhetsstöd för tillståndshantering
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Varför Kaldi
+  description: >-
+    Att arbeta med hållbarhet ska vara enkelt, effektivt och roligt. För att
+    uppnå detta och även skapa struktur i vad som kan upplevas som komplext och
+    rörigt, behövs ett specialutformat verktyg som samlar all hållbarhetsdata på
+    ett och samma ställe och gör datainsamlingsprocessen smart och spårbar.
+description: Vi erbjuder effektiv plattform för datadriven hållbarhet.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +42,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    Vi hjälpa organisationer bli konkurrenskraftiga genom hållbarhetsarbete.
 main:
   heading: Great coffee with no compromises
   description: >
