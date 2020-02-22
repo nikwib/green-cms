@@ -21,8 +21,9 @@ intro:
     - image: /img/meeting-space.png
       text: Spara tid - upp till 84% tidsbesparing
     - image: /img/tutorials.png
-      text: |
-        Överblick - alla hållbarhetsområden samlade på ett ställe
+      text: Överblick - alla hållbarhetsområden samlade på ett ställe
+    - image: /img/tutorials.png
+      text: Sätt upp koncernmål inom hållbar utveckling med uppföljning
   heading: What we offer
   description: |
     Vi hjälpa organisationer bli konkurrenskraftiga genom hållbarhetsarbete.
