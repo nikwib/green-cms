@@ -6,11 +6,10 @@ heading: Medveten hållbarhet
 subheading: Verksamhetsstöd för tillståndshantering
 mainpitch:
   title: Varför Kaldi
-  description: >-
-    Att arbeta med hållbarhet ska vara enkelt, effektivt och roligt. För att
-    uppnå detta och även skapa struktur i vad som kan upplevas som komplext och
-    rörigt, behövs ett specialutformat verktyg som samlar all hållbarhetsdata på
-    ett och samma ställe och gör datainsamlingsprocessen smart och spårbar.
+  description: |-
+    Hanterar hållbarhetsfrågorna på ett
+    strukturerat sätt och integrera dem i
+    den strategiska planeringen och den dagliga verksamheten.
 description: Vi erbjuder effektiv plattform för datadriven hållbarhet.
 intro:
   blurbs:
