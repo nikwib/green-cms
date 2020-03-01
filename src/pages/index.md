@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Förenkla hållbarhetsarbetet
+title: Förenkla Miljöarbetet
 image: /img/photo-of-trees-at-golden-hour-1083342.jpg
 heading: Medveten hållbarhet
 subheading: Verksamhetsstöd för tillståndshantering
